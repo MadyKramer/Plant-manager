@@ -1,0 +1,281 @@
+[{
+    "name": "Orchidée",
+    "watering_interval": {
+      "summer": 7,
+      "winter": 12
+    },
+    "fertilizing_interval": {
+        "summer": 21,
+        "winter": 42
+    },
+    "light_requirement": "average",
+    "last_watered": null,
+    "last_fertilized": null
+  },
+  {
+"name": "Orchidée bambou",
+    "watering_interval": {
+      "summer": 7,
+      "winter": 28
+    },
+    "fertilizing_interval": {
+        "summer": 21,
+        "winter": 49
+    },
+    "light_requirement": "high",
+    "last_watered": null,
+    "last_fertilized": null
+  },
+  {
+    "name": "Orchidée bambou",
+    "watering_interval": {
+      "summer": 7,
+      "winter": 28
+    },
+    "fertilizing_interval": {
+        "summer": 21,
+        "winter": 49
+    },
+    "light_requirement": "high",
+    "last_watered": null,
+    "last_fertilized": null
+  },
+  {
+    "name": "Monstera Deliciosa",
+  "watering_interval": {
+    "summer": 7,
+    "winter": 14
+  },
+  "fertilizing_interval": {
+      "summer": 35,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Monstera Thaï Constellation",
+  "watering_interval": {
+    "summer": 7,
+    "winter": 12
+  },
+  "fertilizing_interval": {
+      "summer": 15,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Yucca",
+  "watering_interval": {
+    "summer": 15,
+    "winter": 30
+  },
+  "fertilizing_interval": {
+      "summer": 30,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Alocasia Regal Shield",
+  "watering_interval": {
+    "summer": 7,
+    "winter": 12
+  },
+  "fertilizing_interval": {
+      "summer": 7,
+      "winter": null
+  },
+  "light_requirement": "middle",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Scinlapsus blanc",
+  "watering_interval": {
+    "summer": 13,
+    "winter": 20
+  },
+  "fertilizing_interval": {
+      "summer": 15,
+      "winter": 50
+  },
+  "light_requirement": "middle",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Scinlapsus doré",
+  "watering_interval": {
+    "summer": 13,
+    "winter": 20
+  },
+  "fertilizing_interval": {
+      "summer": 15,
+      "winter": 50
+  },
+  "light_requirement": "middle",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Aloé Vera",
+  "watering_interval": {
+    "summer": 10,
+    "winter": 30
+  },
+  "fertilizing_interval": {
+      "summer": null,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Fougère Nid d'Oiseau",
+  "watering_interval": {
+    "summer": 7,
+    "winter": 12
+  },
+  "fertilizing_interval": {
+      "summer": 15,
+      "winter": null
+  },
+  "light_requirement": "middle",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "langue de Feu",
+  "watering_interval": {
+    "summer": 7,
+    "winter": 14
+  },
+  "fertilizing_interval": {
+      "summer": 30,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Philodendron Brazil",
+  "watering_interval": {
+    "summer": 7,
+    "winter": 12
+  },
+  "fertilizing_interval": {
+      "summer": 30,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Arbre de Jade",
+  "watering_interval": {
+    "summer": 7,
+    "winter": 30
+  },
+  "fertilizing_interval": {
+      "summer": null,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Langue de Belle-mère",
+  "watering_interval": {
+    "summer": 21,
+    "winter": 31
+  },
+  "fertilizing_interval": {
+      "summer": 21,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Avocatier",
+  "watering_interval": {
+    "summer": 7,
+    "winter": 10
+  },
+  "fertilizing_interval": {
+      "summer": 30,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Caladium Aaron",
+  "watering_interval": {
+    "summer": 7,
+    "winter": null
+  },
+  "fertilizing_interval": {
+      "summer": 15,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Dragonnier de Madagascar",
+  "watering_interval": {
+    "summer": 7,
+    "winter": 12
+  },
+  "fertilizing_interval": {
+      "summer": 35,
+      "winter": null
+  },
+  "light_requirement": "high",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Figuier Caoutchouc",
+  "watering_interval": {
+    "summer": 10,
+    "winter": 20
+  },
+  "fertilizing_interval": {
+      "summer": 30,
+      "winter": null
+  },
+  "light_requirement": "middle",
+  "last_watered": null,
+  "last_fertilized": null
+  },
+  {
+    "name": "Kalanchoé de Bossfeld",
+  "watering_interval": {
+    "summer": 15,
+    "winter": 30
+  },
+  "fertilizing_interval": {
+      "summer": null,
+      "winter": null
+  },
+  "light_requirement": "middle",
+  "last_watered": null,
+  "last_fertilized": null
+  }
+]
